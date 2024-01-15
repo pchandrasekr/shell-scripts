@@ -1,4 +1,4 @@
-#!/bin/bash
+#!  /bin/bash
 
 
 echo "$1: Hello $2, how are you?"
